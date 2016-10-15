@@ -25,7 +25,7 @@ public class MyPanel extends JPanel {
 	
 
 
-	
+
 	
 
 	public MyPanel() {   //This is the constructor... this code runs first to initialize

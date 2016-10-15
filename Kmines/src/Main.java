@@ -7,6 +7,7 @@ public class Main {
 			
 			
 			
+			
 			JFrame myFrame = new JFrame("KMines");
 			myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 			myFrame.setLocation(400, 150);
